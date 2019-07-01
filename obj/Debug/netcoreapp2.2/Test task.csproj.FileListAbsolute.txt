@@ -1,0 +1,24 @@
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.deps.json
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.runtimeconfig.json
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.runtimeconfig.dev.json
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.dll
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.pdb
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.Views.dll
+C:\TestTask\Test task\bin\Debug\netcoreapp2.2\Test task.Views.pdb
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.csprojAssemblyReference.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.csproj.CoreCompileInputs.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.RazorAssemblyInfo.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.RazorAssemblyInfo.cs
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.AssemblyInfoInputs.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.AssemblyInfo.cs
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.TagHelpers.input.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.TagHelpers.output.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.RazorCoreGenerate.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.RazorTargetAssemblyInfo.cache
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.RazorTargetAssemblyInfo.cs
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.Views.pdb
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.dll
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.pdb
+C:\TestTask\Test task\obj\Debug\netcoreapp2.2\Test task.csproj.CopyComplete
